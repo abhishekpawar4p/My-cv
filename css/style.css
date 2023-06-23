@@ -165,6 +165,10 @@ hr{
       .bottom-cloud {
         display: none;
       }
+
+     .mountain{
+        width: 90%;
+      }
     
       .intro {
         width: 80%;
