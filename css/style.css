@@ -145,3 +145,49 @@ hr{
     font-size: 0.75rem;
     padding: 20px 0;
 }
+@media(max-width:600px) {
+    body {
+        font-size: 14px;
+      }
+    
+      h1 {
+        font-size: 3.125rem;
+      }
+    
+      h2 {
+        font-size: 1.875rem;
+      }
+    
+      .top-cloud {
+        display: none;
+      }
+    
+      .bottom-cloud {
+        display: none;
+      }
+    
+      .intro {
+        width: 80%;
+      }
+    
+      .profile-img {
+        width: 30%;
+      }
+    
+      .skill-row {
+        width: 90%;
+      }
+    
+      .code-img,
+      .data-img {
+        width: 50%;
+        float: none;
+        margin: 0 auto 30px;
+      }
+    
+      .contact-me-description {
+        width: 80%;
+      }
+      
+}
+
